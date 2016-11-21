@@ -26,3 +26,20 @@ en:
         home:
             title: Notes
             welcome: Feel free to write a note!
+        contact:
+            title: Contact Me
+            contact_me: Complete this form to contact me
+            
+            name: "Name:"
+            enter_name: Enter your name
+            email: "Email:"
+            enter_email: Enter your email address
+            telephone: "Telephone:"
+            enter_telephone: Enter your telephone number
+            message: "Message:"
+            enter_message: What do you want to say?
+            submit: Contact Me
+        request_contact:
+            no_email: Requires an email address!
+            email_sent: Email sent!
+            
