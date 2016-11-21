@@ -22,4 +22,7 @@
 en:
     app_title: Notes
     app_description: A place to store your notes.
-    
+    home:
+        home:
+            title: Notes
+            welcome: Feel free to write a note!
